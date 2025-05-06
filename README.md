@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Timothy Kabithi</h1>
 <p align="center">
-  🚀 Backend Engineering Learner | 💻 Automation Enthusiast | 🌍 Based in [Your Country]
+  🚀 Backend Engineering Learner | 💻 Automation Enthusiast | 🌍 Based in Kenya
 </p>
 
 ---
